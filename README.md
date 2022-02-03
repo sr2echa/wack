@@ -32,6 +32,8 @@
 > **Once installed, just click on the `wack` extention when in https://www.powerlanguage.co.uk/wordle/ page.** <br>
 > **It will auto fill the solution and submit! :)**
 
+https://user-images.githubusercontent.com/65058816/152364433-e76c3da7-c9de-413b-8c10-f36df17d37a6.mp4
+
 ---
 
 ### Install via bookmarks
@@ -42,4 +44,7 @@ javascript:var state=localStorage.getItem("gameState");let convert = (state) => 
 This will work in **all browsers** `(chromium/geko)` across **all platforms** `(mobile/pc)`
 
 ---
+
+
+
 
