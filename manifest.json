@@ -1,0 +1,18 @@
+{
+  "name": "Wack",
+  "description": "~W̵o̵r̵d̵l̵e̵ ̵H̵a̵x̵k̵ ~ Your last resort in woordle to maintain your woordle win streak",
+  "homepage_url": "https://sreecha.me",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "icons": {
+    "62": "icon.png"
+  },
+    "background":{
+        "scripts":["background.js"],
+        "persistent": true
+    },
+    "browser_action": {
+      "default_title": "Wack"
+    },
+    "permissions":["https://www.powerlanguage.co.uk/*"]
+}
